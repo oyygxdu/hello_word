@@ -57,7 +57,7 @@ def SwitchSelect(ui):
        print('error')
 
 def ethConect(ui):
-    ADDR = '192.168.6.133'
+    ADDR = '192.168.6.100'
     PORT = 60000
     #global client
     client = socket.socket()
